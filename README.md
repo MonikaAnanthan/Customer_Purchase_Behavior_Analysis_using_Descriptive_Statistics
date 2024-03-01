@@ -1,4 +1,4 @@
-## Customer Purchase Behavior Analysis using Descriptive Statistics 
+# Customer Purchase Behavior Analysis using Descriptive Statistics 
 
 # Overview 
 Customer purchase behavior analysis using descriptive analysis involves examining various aspects of customers' purchasing patterns and behaviors through statistical methods.
@@ -42,6 +42,8 @@ Calculate customer lifetime value metrics to quantify the long-term value of cus
 # Data Quality Assessment:
 
 Assess the quality and completeness of the data to ensure that the analysis results are reliable and accurate. Address any data quality issues or inconsistencies that may affect the validity of the analysis.
+
+
 By conducting a descriptive analysis of customer purchase behavior, businesses can gain valuable insights into customer preferences, identify opportunities for targeted marketing strategies, and improve overall customer satisfaction and retention.
 
 
